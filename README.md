@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090b,100:18181b&text=Muhammadumar%20Azizov&fontSize=50&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React%20•%20Next.js&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00e5ff&center=true&vCenter=true&width=900&lines=>_Hello,+World!;>_I'm+a+16-year-old+Frontend+Developer;>_Building+Premium+%26+Industrial+UIs;>_Based+in+Dushanbe,+Tajikistan+🇹🇯;>_Open+for+new+opportunities+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00e5ff&center=true&vCenter=true&width=900&lines=>_Hello,+World!;>_I'm+a+17-year-old+Frontend+Developer;>_Building+Premium+%26+Industrial+UIs;>_Based+in+Dushanbe,+Tajikistan+🇹🇯;>_Open+for+new+opportunities+🚀"/>
 
 </div>
 
